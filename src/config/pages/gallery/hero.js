@@ -14,7 +14,7 @@ const hero = {
   // Hero subtitle with HTML support
   subtitle: {
     enabled: true, // If the subtitle should be enabled or not
-    text: `<span class="fancy">Highlights from the adventures of Grant and Leah's lives</span>`,
+    text: `<span class="fancy">Highlights from the adventures of David and Jenny's lives</span>`,
   },
 
   // First CTA block
@@ -55,7 +55,7 @@ const hero = {
     // Image source
     src: import('~/assets/images/hero.png'),
     // Image alt text
-    alt: 'Grant and Leah',
+    alt: 'soon David and Jenny',
   },
 };
 

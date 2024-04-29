@@ -7,11 +7,11 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 ## About our Wedding
 
-Grant and Leah's wedding will be a small and intimate gathering of friends and family. It will be a full weekend of celebration in the wine country of Northern California.
+David and Jenny's wedding will be an fun gathering of friends and family. It will be a full Saturday of celebration, located by the Gulf coast in Clearwater, Florida.
 
-Due to our venue being a VRBO property, the amount of guests we can invite is very limited.
+Due to our morning venue being a VRBO property, the amount of guests we can invite is very limited.
 
-This wedding is considered a **micro-wedding** and there will be no more than 30 guests due to venue restrictions.
+This tradtional tea ceremony is considered a **micro-wedding** and there will be no more than 80 guests due to venue restrictions.
 
 ## When and Where
 

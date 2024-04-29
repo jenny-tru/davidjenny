@@ -55,7 +55,7 @@ const hero = {
     // Image source
     src: import('~/assets/images/save-the-date.png'),
     // Image alt text
-    alt: 'Grant and Leah',
+    alt: 'soon David and Jenny',
   },
 };
 

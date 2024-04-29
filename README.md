@@ -2,7 +2,7 @@
 
 [![deploy](https://github.com/GrantBirki/gl/actions/workflows/deploy.yml/badge.svg)](https://github.com/GrantBirki/gl/actions/workflows/deploy.yml) [![ci](https://github.com/GrantBirki/gl/actions/workflows/ci.yml/badge.svg)](https://github.com/GrantBirki/gl/actions/workflows/ci.yml) [![lint](https://github.com/GrantBirki/gl/actions/workflows/lint.yml/badge.svg)](https://github.com/GrantBirki/gl/actions/workflows/lint.yml) [![CodeQL](https://github.com/GrantBirki/gl/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/GrantBirki/gl/actions/workflows/codeql-analysis.yml)
 
-Wedding website for Grant and Leah
+Wedding website for David and Jenny
 
 [gl.birki.io](https://gl.birki.io) 🔗
 
