@@ -15,8 +15,8 @@ This tradtional tea ceremony is considered a **micro-wedding** and there will be
 
 ## When and Where
 
-- When: Our wedding will be the whole weekend of September 28th, 2024 (Friday to Monday - 27th -> 30th)
-- Where: [Old Hopland, CA](https://maps.app.goo.gl/Pyyhy51YdWWvGfnA8)
+- When: Our wedding will be the whole day Saturday of November 16th, 2024 (10am -> 10pm)
+- Where: [Clearwater, FL](https://maps.app.goo.gl/VdFo88jXNWgfK8277)
 
 ## Accommodations
 

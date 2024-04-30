@@ -40,11 +40,11 @@ const footerData = {
   ],
 
   // A list of social links to be displayed in the footer
-  socialLinks: [{ ariaLabel: 'GitHub', icon: 'tabler:brand-github', href: 'https://github.com/grantbirki/gl' }],
+  socialLinks: [{ ariaLabel: 'GitHub', icon: 'tabler:brand-github', href: 'https://github.com/jenny-tru/davidjenny' }],
 
   // The footnote to be displayed in the footer (can contain HTML)
   footNote: `
-    Made by <a class="text-sage-800 hover:underline dark:text-gray-200" target="_blank" href="https://github.com/grantbirki/gl"> David and Jenny</a> with ❤️
+    Made by <a class="text-sage-800 hover:underline dark:text-gray-200" target="_blank" href="https://github.com/jenny-tru/davidjenny"> David and Jenny</a> with ❤️
   `,
 };
 
