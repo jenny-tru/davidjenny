@@ -13,7 +13,7 @@ const hero = {
   // Hero subtitle with HTML support
   subtitle: {
     enabled: true, // If the subtitle should be enabled or not
-    text: `<span class="fancy">We are getting married! Join us in our celebration.</span>`,
+    text: `<span class="fancy">We are getting married! Please join us in our morning traditonal vietnamese tea ceremony and an evening reception celebration.</span>`,
   },
 
   // First CTA block
@@ -52,7 +52,7 @@ const hero = {
     // If the image should be enabled or not
     enabled: true,
     // Image source
-    src: import('~/assets/images/hero.png'),
+    src: import('~/assets/images/hero.jpg'),
     // Image alt text
     alt: 'soon David and Jenny',
   },

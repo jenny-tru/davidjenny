@@ -53,7 +53,7 @@ const hero = {
     // If the image should be enabled or not
     enabled: false,
     // Image source
-    src: import('~/assets/images/hero.png'),
+    src: import('~/assets/images/hero.jpg'),
     // Image alt text
     alt: 'soon David and Jenny',
   },
