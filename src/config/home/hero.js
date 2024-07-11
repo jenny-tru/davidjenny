@@ -19,17 +19,17 @@ const hero = {
   // First CTA block
   callToAction: {
     // Enable or disable first CTA
-    enabled: false,
+    enabled: true,
     // CTA text
-    text: 'Get template',
+    text: 'Schedule',
     // CTA link
-    href: 'https://github.com/grantbirki/gl',
+    href: '/schedule',
     // Target html <a> tag
-    target: '_blank',
+    target: '_self',
     // Rel html <a> tag
     rel: 'noopener',
     // CTA icon
-    icon: 'tabler:download',
+    icon: 'tabler:calendar',
   },
 
   // Second CTA block (optional)
