@@ -1,92 +1,92 @@
 [
   {
     "key": 1,
-    "alt": "A_DSC03925.jpg",
-    "src": "/assets/gallery/A_DSC03925.jpg",
-    "width": 2800,
-    "height": 4200
+    "alt": "tenerife-proposal",
+    "src": "/assets/gallery/tenerife.png",
+    "width": 2200,
+    "height": 2000
   },
   {
     "key": 2,
-    "alt": "A_DSC04128.jpg",
-    "src": "/assets/gallery/A_DSC04128.jpg",
-    "width": 4000,
-    "height": 6000
-  },
-  {
-    "key": 3,
-    "alt": "A_DSC03959.jpg",
-    "src": "/assets/gallery/A_DSC03959.jpg",
-    "width": 2800,
-    "height": 4200
-  },
-  {
-    "key": 4,
-    "alt": "B_london_piano_works_booth_compressed_1.png",
-    "src": "/assets/gallery/B_london_piano_works_booth_compressed_1.png",
+    "alt": "tenerife-ring.jpeg",
+    "src": "/assets/gallery/tenerife-ring.jpeg",
     "width": 1096,
     "height": 1312
   },
   {
+    "key": 3,
+    "alt": "tenerife-proposal.jpeg",
+    "src": "/assets/gallery/tenerife-proposal.jpeg",
+    "width": 3000,
+    "height": 4200
+  },
+  {
+    "key": 4,
+    "alt": "caves",
+    "src": "/assets/gallery/austria3.jpg",
+    "width": 3000,
+    "height": 4200
+  },
+  {
     "key": 5,
-    "alt": "B_gl_love_lock.jpg",
-    "src": "/assets/gallery/B_gl_love_lock.jpg",
+    "alt": "cluj-hiking",
+    "src": "/assets/gallery/cluj2.jpg",
     "width": 5472,
     "height": 3648
   },
   {
     "key": 6,
-    "alt": "B_london_piano_works_booth_compressed_2.png",
-    "src": "/assets/gallery/B_london_piano_works_booth_compressed_2.png",
+    "alt": "dk-lego2",
+    "src": "/assets/gallery/dk-lego2.jpg",
     "width": 1096,
     "height": 1312
   },
   {
     "key": 7,
-    "alt": "DSC05225_LR.jpg",
-    "src": "/assets/gallery/DSC05225_LR.jpg",
+    "alt": "denver3",
+    "src": "/assets/gallery/denver3.jpg",
     "width": 4000,
     "height": 6000
   },
   {
     "key": 8,
-    "alt": "IMG_1660_LR.jpg",
-    "src": "/assets/gallery/IMG_1660_LR.jpg",
+    "alt": "edinburgh",
+    "src": "/assets/gallery/edinburgh.jpg",
     "width": 5472,
     "height": 3648
   },
   {
     "key": 9,
-    "alt": "IMG_3851_LR.jpg",
-    "src": "/assets/gallery/IMG_3851_LR.jpg",
+    "alt": "taipei",
+    "src": "/assets/gallery/taipei101.jpg",
     "width": 5472,
     "height": 3648
   },
   {
     "key": 10,
-    "alt": "IMG_8130_LR.jpg",
-    "src": "/assets/gallery/IMG_8130_LR.jpg",
+    "alt": "prague",
+    "src": "/assets/gallery/prague.jpg",
     "width": 1824,
     "height": 2736
   },
   {
     "key": 11,
-    "alt": "soon david and jenny",
-    "src": "/assets/gallery/grant-and-leah-norway-boat.jpg",
+    "alt": "paris",
+    "src": "/assets/gallery/paris5.jpg",
     "width": 1440,
     "height": 1800
   },
   {
     "key": 12,
-    "alt": "IMG_4964.jpg",
-    "src": "/assets/gallery/IMG_4964.jpg",
+    "alt": "san diego",
+    "src": "/assets/gallery/sd-hiking.jpg",
     "width": 1459,
     "height": 2189
   },
   {
     "key": 13,
-    "alt": "family-waterski.jpg",
-    "src": "/assets/gallery/family-waterski.jpg",
+    "alt": "seoul",
+    "src": "/assets/gallery/seoul-market.jpg",
     "width": 1632,
     "height": 1224
   }

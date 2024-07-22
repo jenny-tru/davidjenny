@@ -13,7 +13,7 @@ If you wish to contribute, we have several registries available. However, we wou
 
 Thank you for being a part of our special day ❤️
 
-- ✈️ [Travel Fund](https://account.venmo.com/u/GrantBirki) - Venmo
-- 🛒 [Amazon](https://www.amazon.com/wedding/grant-birkinbine-leah-caragol--may-2024/registry/11BZEM3G36MR4)
-- 🛋️ [Crate and Barrel]()
-- 🌱 [Donate](https://www.catf.us/) - Environmental Fund
+- ✈️ [Travel Fund](https://venmo.com/u/JennyTru) - Venmo
+- 🛒 [Amazon](https://www.amazon.com/wedding/share/davidandjenny)
+- 🛋️ [Target]()
+- 🌱 [Donate]() - Lupus Foundation

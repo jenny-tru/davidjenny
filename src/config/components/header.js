@@ -12,8 +12,8 @@ const headerData = {
       href: '/',
     },
     {
-      text: 'Travel + Stay',
-      href: '/travel-and-stay',
+      text: 'Travel + Hotel',
+      href: '/travel-and-hotel',
     },
     {
       text: 'Schedule',

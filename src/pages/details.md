@@ -9,9 +9,7 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 David and Jenny's wedding will be an fun gathering of friends and family. It will be a full Saturday of celebration, located by the Gulf coast in Clearwater, Florida.
 
-Due to our morning venue being a VRBO property, the amount of guests we can invite is very limited.
-
-This tradtional tea ceremony is considered a **micro-wedding** and there will be no more than 80 guests due to venue restrictions.
+This tradtional tea ceremony is considered a **micro-wedding** and there will be no more than 50 guests due to venue restrictions.
 
 ## When and Where
 
@@ -20,9 +18,16 @@ This tradtional tea ceremony is considered a **micro-wedding** and there will be
 
 ## Accommodations
 
-We have booked the entire Pinschower Inn, which is a historic bed and breakfast in Cloverdale, California. The venue itself sleeps a few guests but the majority of guests will be staying at the Pinschower Inn.
+Please call hotel reservations at (888) 237-8772, Ext. 7100 and request the David Jenny Rooms special rate (prices below) or use the corp code ID #1000079468. You can also click the booking link below. Reservations close on October 30, 2024.
 
-To view more information about accommodations, please visit the [hotel](/hotel) page.
+![resort-rates](src/assets/images/resort-rates.png)
+
+### Resort
+
+- **Address:** 105 N Bayshore Dr, Safety Harbor, FL 34695-3124
+- **Google Maps:** [Directions Link](https://maps.app.goo.gl/SfBoGPmmbZpUpHJR9)
+
+![house](src/assets/images/kapok-map.png)
 
 ## Venue
 

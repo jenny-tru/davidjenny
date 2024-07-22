@@ -14,7 +14,7 @@ const footerData = {
       links: [
         { text: 'Schedule', href: '/schedule' },
         { text: 'Things to Do', href: '/things-to-do' },
-        { text: 'Travel + Stay', href: '/travel-and-stay' },
+        { text: 'Travel + Hotel', href: '/travel-and-hotel' },
         { text: 'FAQs', href: '/faqs' },
       ],
     },
