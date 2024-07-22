@@ -14,7 +14,7 @@ De Tierra is a beautiful property located in Salinas, California. The property i
 - **Address:** 505 Corral de Tierra Rd. Salinas Ca 93908
 - **Google Maps:** [Directions Link](https://maps.app.goo.gl/e9ZA5bm9XZ361UqLA)
 
-![house](/assets/house.jpg)
+![house](/assets/images/kapok.jpg)
 
 ### Flights
 
