@@ -14,6 +14,11 @@ export default function Gallery(props) {
           if (containerWidth < 800) return 2;
           return 3;
         }}
+        componentsProps={() => ({
+          imageProps: {
+            style: 'object-fit: cover',
+          }
+        })}
       />
     </div>
   );
