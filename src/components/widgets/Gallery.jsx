@@ -16,7 +16,9 @@ export default function Gallery(props) {
         }}
         componentsProps={() => ({
           imageProps: {
-            style: 'object-fit: cover',
+            style: {
+              objectFit: 'cover'
+            },
           }
         })}
       />

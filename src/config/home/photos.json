@@ -1,10 +1,10 @@
 [
   {
     "key": 1,
-    "alt": "tenerife-proposal",
-    "src": "/assets/gallery/tenerife.png",
-    "width": 2200,
-    "height": 2000
+    "alt": "tenerife-proposal.jpeg",
+    "src": "/assets/gallery/tenerife-proposal.jpeg",
+    "width": 3000,
+    "height": 4200
   },
   {
     "key": 2,
@@ -15,29 +15,22 @@
   },
   {
     "key": 3,
-    "alt": "tenerife-proposal.jpeg",
-    "src": "/assets/gallery/tenerife-proposal.jpeg",
-    "width": 3000,
-    "height": 4200
+    "alt": "tenerife-proposal",
+    "src": "/assets/gallery/tenerife.png",
+    "width": 5200,
+    "height": 3600
   },
   {
-    "key": 4,
+    "key": 5,
     "alt": "caves",
     "src": "/assets/gallery/austria3.jpg",
     "width": 3000,
     "height": 4200
   },
   {
-    "key": 5,
-    "alt": "cluj-hiking",
-    "src": "/assets/gallery/cluj2.jpg",
-    "width": 5472,
-    "height": 3648
-  },
-  {
     "key": 6,
-    "alt": "dk-lego2",
-    "src": "/assets/gallery/dk-lego2.jpg",
+    "alt": "taipei",
+    "src": "/assets/gallery/taipei101.jpg",
     "width": 1096,
     "height": 1312
   },
@@ -57,10 +50,10 @@
   },
   {
     "key": 9,
-    "alt": "taipei",
-    "src": "/assets/gallery/taipei101.jpg",
-    "width": 5472,
-    "height": 3648
+    "alt": "berlin tower",
+    "src": "/assets/gallery/berlin2.jpeg",
+    "width": 1824,
+    "height": 2736
   },
   {
     "key": 10,
@@ -78,16 +71,23 @@
   },
   {
     "key": 12,
-    "alt": "san diego",
-    "src": "/assets/gallery/sd-hiking.jpg",
+    "alt": "berlin twirl",
+    "src": "/assets/gallery/berlin1.jpeg",
     "width": 1459,
-    "height": 2189
+    "height": 1889
   },
   {
     "key": 13,
-    "alt": "seoul",
-    "src": "/assets/gallery/seoul-market.jpg",
-    "width": 1632,
-    "height": 1224
+    "alt": "cluj-hiking",
+    "src": "/assets/gallery/cluj2.jpg",
+    "width": 5472,
+    "height": 3648
+  },
+  {
+    "key": 4,
+    "alt": "sd-hiking",
+    "src": "/assets/gallery/sd-hiking.jpg",
+    "width": 5472,
+    "height": 3648
   }
 ]
