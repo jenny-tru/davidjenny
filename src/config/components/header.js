@@ -24,14 +24,6 @@ const headerData = {
       href: '/gifts',
     },
     {
-      text: 'Save the Date',
-      href: '/save-the-date',
-    },
-    {
-      text: 'Things to Do',
-      href: '/things-to-do',
-    },
-    {
       text: 'FAQs',
       href: '/faqs',
     },

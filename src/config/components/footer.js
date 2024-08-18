@@ -8,30 +8,15 @@ const footerData = {
   // List of links to be displayed in the footer
   links: [
     {
-      // The title of the section
-      title: 'Details',
       // List of links to be displayed in the section
       links: [
+        { text: 'RSVP', href: '/rsvp' },
         { text: 'Schedule', href: '/schedule' },
-        { text: 'Things to Do', href: '/things-to-do' },
         { text: 'Travel + Hotel', href: '/travel-and-hotel' },
+        { text: 'Gifts', href: '/gifts' },
+        { text: 'Photos', href: '/gallery' },
         { text: 'FAQs', href: '/faqs' },
       ],
-    },
-    {
-      title: 'Invite',
-      links: [
-        { text: 'RSVP', href: '/rsvp' },
-        { text: 'Digital Save the Date', href: '/save-the-date' },
-      ],
-    },
-    {
-      title: 'Gallery',
-      links: [{ text: 'Photos', href: '/gallery' }],
-    },
-    {
-      title: 'Links',
-      links: [{ text: 'Gifts', href: '/gifts' }],
     },
   ],
 
@@ -40,9 +25,6 @@ const footerData = {
     // { text: 'Terms', href: getPermalink('/terms') },
     // { text: 'Privacy Policy', href: getPermalink('/privacy') },
   ],
-
-  // A list of social links to be displayed in the footer
-  socialLinks: [{ ariaLabel: 'GitHub', icon: 'tabler:brand-github', href: 'https://github.com/jenny-tru/davidjenny' }],
 
   // The footnote to be displayed in the footer (can contain HTML)
   footNote: `
