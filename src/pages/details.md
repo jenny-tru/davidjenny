@@ -18,7 +18,7 @@ This tradtional tea ceremony is considered a **micro-wedding** and there will be
 
 ## Accommodations
 
-Please call hotel reservations at (888) 237-8772, Ext. 7100 and request the David Jenny Rooms special rate (prices below) or use the corp code ID #1000079468. You can also click the booking link below. Reservations close on October 30, 2024.
+Please call hotel reservations at (888) 237-8772, Ext. 7100 and request the David Jenny Rooms special rate (prices below) or use the corp code ID #1000079468. You can also click the booking link below. Reservations close on October 31, 2024.
 
 ![resort-rates](src/assets/images/resort-rates.png)
 
@@ -31,7 +31,7 @@ Please call hotel reservations at (888) 237-8772, Ext. 7100 and request the Davi
 
 ## Venue
 
-The wedding venue is at the _Dooley Creek Ranch_. This is a VRBO property that we have booked for the entire weekend. It is where we will be having the ceremony, reception, and all the other wedding festivities!
+The wedding venue is at the _Kapok Special Events_. This is a VRBO property that we have booked for the entire weekend. It is where we will be having the ceremony, reception, and all the other wedding festivities!
 
 The venue is beautiful and has a lot of space for guests to relax and enjoy the weekend. To view more information about the venue, please visit the dedicated [venue](/venue) page.
 

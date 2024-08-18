@@ -3,6 +3,12 @@ title: 'Travel + Hotel'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
+![house](src/assets/images/kapok-map.png)
+
+### Flights
+
+We recommend flying into St. Pete-Clearwater Int Airport (PIE) or Tampa Int Airport (TPA). Depending on your airport of choice, expect a drive between 15 and 30 minutes to the venue and hotel area.
+
 ![safety-harbor-hotel](/assets/safety-harbor1.jpg)
 
 ## Safety Harbor Resort & Spa
@@ -17,14 +23,6 @@ Please call hotel reservations at (888) 237-8772, Ext. 7100 and request the Davi
 
 - **Address:** 105 N Bayshore Dr, Safety Harbor, FL 34695-3124
 - **Google Maps:** [Directions Link](https://maps.app.goo.gl/SfBoGPmmbZpUpHJR9)
-
-![house](src/assets/images/kapok-map.png)
-
-### Flights
-
-We recommend flying into St. Pete-Clearwater Int Airport (PIE) or Tampa Int Airport (TPA). Depending on your airport of choice, expect a drive between 15 and 30 minutes to the venue and hotel area.
-
-If you’d like to avoid renting a car and are ...
 
 ### Gallery
 
