@@ -22,6 +22,10 @@ Don't forget to pack a bathing suit for the beach + pool + hot hub if it is hot 
 
 The wedding venue has a guest maximum, which means those who can bring a plus one will have been notified after RSVPing.
 
+## Are children welcome?
+
+Yes, but we ask that you keep them with you at all times. Kids bring so much joy in life and we'd love to have them dancing all night long! Plus this means parents don't have to find a baby sitter.
+
 ## Is there transportation available on the day of the wedding?
 
 Sadly we are not able to provide transportation on the day of the wedding, but we encourage people to carpool or Lyft/Uber to the venue! If you dare to drive in Florida streets, rental cars are a great option.
