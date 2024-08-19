@@ -24,16 +24,16 @@ const headerData = {
       href: '/gifts',
     },
     {
-      text: 'FAQs',
-      href: '/faqs',
-    },
-    {
       text: 'Gallery',
       href: getPermalink('/gallery'),
     },
     {
       text: 'RSVP',
       href: '/rsvp',
+    },
+    {
+      text: 'FAQs',
+      href: '/faqs',
     },
 
     // // The blog link is a special case, it uses the getBlogPermalink function

@@ -42,15 +42,6 @@ const content = {
       },
     ],
 
-    // Configuration for the image to be displayed in the primary section
-    image: {
-      // If the image should be enabled
-      enabled: true,
-      // Alt text for the image
-      alt: 'Colorful Image',
-      // The image to be displayed
-      src: import('~/assets/images/save-the-date.png'),
-    },
   },
 
   // Configuration for the secondary section of the content component (the second and smaller section)
@@ -80,15 +71,6 @@ const content = {
       },
     ],
 
-    // Configuration for the image to be displayed in the secondary section
-    image: {
-      // If the image should be enabled
-      enabled: true,
-      // Alt text for the image
-      alt: 'Vintage Image',
-      // The image to be displayed
-      src: import('~/assets/images/save-the-date.png'),
-    },
   },
 };
 

@@ -55,7 +55,7 @@ const hero = {
     // Image source
     src: import('~/assets/images/hero.jpg'),
     // Image alt text
-    alt: 'soon David and Jenny',
+    alt: 'David and Jenny in front of interlaken lakes',
   },
 };
 
