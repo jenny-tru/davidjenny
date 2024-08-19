@@ -5,22 +5,23 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 ## What should I wear?
 
-We’re so glad you asked - but really, whatever you feel your happiest self in! Our dress code is California Cocktail attire for the wedding so ladies - festive & summery dresses and gentlemen - trousers and button down, sport coat if you’d like, and tie is not necessary.
+We’re so glad you asked - but really, whatever you feel your happiest self in! Our dress code is formal attire for the wedding so ladies - warm autumn tones for dresses and gentlemen - suit and tie is reccommended.
 
-For the welcome dinner, you may have just had a travel day so anything slightly above casual would be perfect.
+For the casual welcome dinner, you may have just had a travel day so anything slightly above casual would be perfect.
 
-If you have any questions, fit pics or concerns - please reach out to Leah or Grant.
+_If you have any questions, fit pics or concerns - please reach out to Jenny or David._
 
 ## Will the ceremony and reception be outdoors? What’s the weather?
 
-Both the ceremony and reception are outdoors.
+Both the ceremony and reception are indoors.
+We can’t stress enough that this area sees a wide range of weather from rain to sunshine in minutes. Novmeber swings from 73°F / 63°F but please check the weather as it gets closer.
 
-We can’t stress enough that this area sees a wide range of weather and it may swing from 50-95 degrees fahrenheit throughout the weekend (yes, even in late September). So please be mindful of the ever-changing weather and pack layers and a bathing suit for the pool + hot hub if it is hot enough to swim.
+Don't forget to pack a bathing suit for the beach + pool + hot hub if it is hot enough to swim.
 
 ## Can I bring a plus one?
 
-We’ve decided to keep our wedding intimate and our venue has a guest maximum, which means those who can bring a plus one will have been notified on their invitation.
+The wedding venue has a guest maximum, which means those who can bring a plus one will have been notified after RSVPing.
 
 ## Is there transportation available on the day of the wedding?
 
-Lucky for a lot of you, your bed will not be far from the dance floor so nope! - but don’t worry after 10pm we will be quiet enough for you to sleep. For those at the Bixby house, the venue requests that you return to the house by 10:30pm and we will not be providing transportation so this might be a great opportunity for some carpooling.
+Sadly we are not able to provide transportation on the day of the wedding, but we encourage people to carpool or Lyft/Uber to the venue! If you dare to drive in Florida streets, rental cars are a great option.

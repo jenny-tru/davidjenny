@@ -51,7 +51,7 @@
   {
     "key": 9,
     "alt": "berlin tower",
-    "src": "/assets/gallery/berlin2.jpeg",
+    "src": "/assets/gallery/berlin3.jpg",
     "width": 1824,
     "height": 2736
   },
@@ -72,22 +72,16 @@
   {
     "key": 12,
     "alt": "berlin twirl",
-    "src": "/assets/gallery/berlin1.jpeg",
+    "src": "/assets/gallery/berlin2.jpg",
     "width": 1459,
     "height": 1889
   },
   {
-    "key": 13,
+    "key": 4,
     "alt": "cluj-hiking",
     "src": "/assets/gallery/cluj2.jpg",
     "width": 5472,
     "height": 3648
-  },
-  {
-    "key": 4,
-    "alt": "sd-hiking",
-    "src": "/assets/gallery/sd-hiking.jpg",
-    "width": 5472,
-    "height": 3648
   }
+
 ]

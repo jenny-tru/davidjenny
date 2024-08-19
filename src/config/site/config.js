@@ -1,6 +1,6 @@
 // General configuration for the website
 
-import defaultImage from '../../assets/images/default.png';
+import defaultImage from '../../assets/images/partiful.jpg';
 import blog from './blog';
 
 const CONFIG = {

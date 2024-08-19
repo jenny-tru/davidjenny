@@ -6,7 +6,7 @@ Wedding website for David and Jenny
 
 [davidjenny.com](https://davidjenny.com) 🔗
 
-![homepage](src/assets/images/default.png)
+![homepage](src/assets/images/partiful.jpg)
 
 ## Commands
 

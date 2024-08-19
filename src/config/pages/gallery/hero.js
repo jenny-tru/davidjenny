@@ -14,7 +14,7 @@ const hero = {
   // Hero subtitle with HTML support
   subtitle: {
     enabled: true, // If the subtitle should be enabled or not
-    text: `<span class="fancy">Highlights from the adventures of David and Jenny's lives</span>`,
+    text: `<span class="fancy">Traveling has been a huge part of our lives and it has built a lot of the foundation of our relationship today. We have traveled near and far, collecting photos and memories along the way. We are excited to share some of our favorite moments with you!</span>`,
   },
 
   // First CTA block
