@@ -10,7 +10,7 @@ export default function Gallery(props) {
         layout={props.layout}
         photos={props.photos}
         columns={(containerWidth) => {
-          if (containerWidth < 400) return 1;
+          if (containerWidth < 400) return 2;
           if (containerWidth < 800) return 2;
           return 3;
         }}

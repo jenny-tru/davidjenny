@@ -3,7 +3,7 @@ title: 'Travel + Hotel'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-![house](src/assets/images/kapok-map.png)
+![house](/assets/kapok-map.png)
 
 ### Flights
 
@@ -17,7 +17,7 @@ The historic [Safety Harbor Resort and Spa](https://www.safetyharborspa.com/) is
 
 Please call hotel reservations at (888) 237-8772, Ext. 7100 and request the David Jenny Rooms special rate (prices below) or use the corp code ID #1000079468. You can also click the booking link below. Reservations close on October 30, 2024.
 
-![resort-rates](src/assets/images/resort-rates.png)
+![resort-rates](/assets/resort-rates.png)
 
 ### Resort
 

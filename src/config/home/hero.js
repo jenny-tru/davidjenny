@@ -13,7 +13,7 @@ const hero = {
   // Hero subtitle with HTML support
   subtitle: {
     enabled: true, // If the subtitle should be enabled or not
-    text: `<span class="fancy">We are getting married! Please join us in our morning traditonal vietnamese tea ceremony and an evening reception celebration.</span>`,
+    text: `<span class="fancy">We are getting married! Please join us by RSVPing.</span>`,
   },
 
   // First CTA block
@@ -21,9 +21,9 @@ const hero = {
     // Enable or disable first CTA
     enabled: true,
     // CTA text
-    text: 'Schedule',
+    text: 'RSVP',
     // CTA link
-    href: '/schedule',
+    href: '/rsvp',
     // Target html <a> tag
     target: '_self',
     // Rel html <a> tag

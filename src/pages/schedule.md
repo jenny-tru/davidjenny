@@ -3,9 +3,9 @@ title: 'Schedule'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-## Casual Welcome Dinner: 
+## Casual Welcome Dinner 🍕 
 
-To our friends flying in that we don't get to see often: Friday check-in after 3pm to your accommodation and please join us at 6pm for a causal dinner & drinks in the backyard of the AirBnb we rented to start the festivities!
+For our out-of-town guests traveling from afar: We're excited to welcome you! After checking in to your accommodation (available from 3pm Friday), please join us at 6pm for a casual dinner and drinks in the backyard of our rented AirBnb. This intimate gathering is a special opportunity for us to catch up with those we don't often see, kicking off our wedding weekend festivities!
 
 ## Tea Ceremony 🫖
 
@@ -13,7 +13,10 @@ To our friends flying in that we don't get to see often: Friday check-in after 3
 | -------- | ---------------------- | -------------- |
 | 10am | Saturday, November 16th | Seminole, FL |
 
-Mr. Thomas Truong and Mr. Hisham Khourshid invite our families to this intimate gathering of a tradtional Vietnamese tea ceremony where we ask for the blessings of our respected elders.
+Mr. Thomas Truong and Mr. Hisham Khourshid invite our families to this intimate gathering of a tradtional Vietnamese tea ceremony. By keeping this ceremony limited to family, David and Jenny are honoring Vietnamese traditions while also managing the practical aspects of their wedding celebrations. It's a beautiful way to begin their wedding day, rooted in cultural respect and family bonds.
+
+During this ceremony, the couple serves tea to their parents and elder family members, symbolizing their gratitude for being raised and cared for. In return, the elders offer blessings and advice for the couple's future together. This exchange represents the joining of two families and the continuation of family traditions.
+
 
 >Please check your invitations for details.
 
@@ -21,7 +24,7 @@ Mr. Thomas Truong and Mr. Hisham Khourshid invite our families to this intimate 
 
 | Time | Date                   | Location   |
 | ---- | ---------------------- | ---------- |
-| 5pm  | Saturday, November 16th | Kapok Special Events |
+| 5pm  | Saturday, November 16th | Clearwater, FL |
 
 The American ceremony is to be followed by a 6 course family style dinner and lots of dancing! 
 
