@@ -17,7 +17,7 @@ const CONFIG = {
   title: 'D + J',
 
   // wedding data
-  weddingDate: '11/16/2024',
+  weddingDate: 'November 16, 2024',
 
   // Website description
   description: 'David and Jenny are getting married! 💍',
