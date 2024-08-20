@@ -1,114 +1,254 @@
 [
   {
     "key": 1,
-    "alt": "berlin1.jpg",
+    "alt": "berlin-coffee-donut",
     "src": "/assets/gallery/berlin1.jpg",
     "width": 1800,
     "height": 2700
   },
   {
     "key": 2,
-    "alt": "berlin4",
+    "alt": "berlin-street",
     "src": "/assets/gallery/berlin4.jpg",
     "width": 2400,
     "height": 3600
   },
   {
     "key": 3,
-    "alt": "taipei3",
-    "src": "/assets/gallery/taipei3.jpg",
-    "width": 3000,
-    "height": 2700
+    "alt": "berlin-twirl",
+    "src": "/assets/gallery/berlin2.jpg",
+    "width": 1459,
+    "height": 1889
   },
   {
     "key": 4,
-    "alt": "taipei2",
+    "alt": "berlin-tower",
+    "src": "/assets/gallery/berlin3.jpg",
+    "width": 1824,
+    "height": 2736
+  },
+  {
+    "key": 5,
+    "alt": "taipei-hike",
+    "src": "/assets/gallery/taipei3.jpg",
+    "width": 5472,
+    "height": 3648
+  },
+  {
+    "key": 6,
+    "alt": "taipei-market",
     "src": "/assets/gallery/taipei2.jpg",
     "width": 1600,
     "height": 2000
   },
   {
-    "key": 5,
+    "key": 7,
+    "alt": "taipei101",
+    "src": "/assets/gallery/taipei101.jpg",
+    "width": 1096,
+    "height": 1312
+  },
+  {
+    "key": 8,
     "alt": "jerusalem1",
     "src": "/assets/gallery/jerusalem1.jpg",
     "width": 1600,
     "height": 2400
   },
   {
-    "key": 6,
+    "key": 9,
     "alt": "jerusalem2",
     "src": "/assets/gallery/jerusalem2.jpg",
     "width": 2800,
     "height": 4200
   },
   {
-    "key": 7,
-    "alt": "japan-tulips.jpg",
+    "key": 10,
+    "alt": "japan-tulips",
     "src": "/assets/gallery/japan-tulips.jpg",
     "width": 1600,
     "height": 2400
   },
   {
-    "key": 9,
-    "alt": "utah1.jpg",
-    "src": "/assets/gallery/utah1.jpg",
-    "width": 3000,
-    "height": 2200
-  },
-  {
-    "key": 10,
-    "alt": "snowboard1.jpg",
-    "src": "/assets/gallery/snowboard1.jpg",
-    "width": 2000,
-    "height": 2800
-  },
-  {
     "key": 11,
-    "alt": "paris1.jpg",
+    "alt": "japan-trains",
+    "src": "/assets/gallery/japan-bullettrain.jpg",
+    "width": 3000,
+    "height": 2400
+  },
+  {
+    "key": 12,
+    "alt": "paris-kiss",
     "src": "/assets/gallery/paris1.jpg",
     "width": 2200,
     "height": 2700
   },
   {
-    "key": 12,
+    "key": 13,
     "alt": "paris2.jpg",
     "src": "/assets/gallery/paris2.jpg",
     "width": 2800,
     "height": 3000
   },
   {
-    "key": 13,
+    "key": 14,
+    "alt": "paris",
+    "src": "/assets/gallery/paris5.jpg",
+    "width": 1440,
+    "height": 1800
+  },
+  {
+    "key": 15,
     "alt": "zadar2.jpg",
     "src": "/assets/gallery/zadar2.jpg",
     "width": 2200,
     "height": 3000
   },
   {
-    "key": 14,
+    "key": 16,
     "alt": "zadar3.jpg",
     "src": "/assets/gallery/zadar3.jpg",
     "width": 2700,
     "height": 2700
   },
   {
-    "key": 15,
-    "alt": "vietnam1.jpg",
+    "key": 17,
+    "alt": "vietnam-heart",
     "src": "/assets/gallery/vietnam1.jpg",
-    "width": 3000,
-    "height": 2200
+    "width": 5472,
+    "height": 3648
   },
   {
-    "key": 16,
+    "key": 18,
+    "alt": "zadar1.jpg",
+    "src": "/assets/gallery/zadar.jpg",
+    "width": 2700,
+    "height": 2700
+  },
+  {
+    "key": 19,
     "alt": "vietnam5.jpg",
     "src": "/assets/gallery/vietnam5.jpg",
     "width": 2200,
     "height": 2700
   },
   {
-    "key": 16,
-    "alt": "switz.jpg",
+    "key": 20,
+    "alt": "switzerland-hike",
     "src": "/assets/gallery/switz3.jpg",
     "width": 2200,
     "height": 2700
+  },
+  {
+    "key": 21,
+    "alt": "switzerland-jenny",
+    "src": "/assets/gallery/switz.jpg",
+    "width": 2200,
+    "height": 2700
+  },
+  {
+    "key": 22,
+    "alt": "utah-snowboarding",
+    "src": "/assets/gallery/utah1.jpg",
+    "width": 5472,
+    "height": 3648
+  },
+  {
+    "key": 23,
+    "alt": "snowboard-ashville",
+    "src": "/assets/gallery/snowboard1.jpg",
+    "width": 2000,
+    "height": 2800
+  },
+  {
+    "key": 24,
+    "alt": "caves",
+    "src": "/assets/gallery/austria3.jpg",
+    "width": 3000,
+    "height": 4200
+  },
+  {
+    "key": 25,
+    "alt": "edinburgh",
+    "src": "/assets/gallery/edinburgh.jpg",
+    "width": 5472,
+    "height": 3648
+  },
+  {
+    "key": 26,
+    "alt": "prague",
+    "src": "/assets/gallery/prague.jpg",
+    "width": 1824,
+    "height": 2736
+  },
+  {
+    "key": 27,
+    "alt": "cluj-hiking",
+    "src": "/assets/gallery/cluj2.jpg",
+    "width": 5472,
+    "height": 3648
+  },
+  {
+    "key": 28,
+    "alt": "seoul-market",
+    "src": "/assets/gallery/seoul-market.jpg",
+    "width": 1824,
+    "height": 2736
+  },
+  {
+    "key": 29,
+    "alt": "seoul-eggtart",
+    "src": "/assets/gallery/seoul-eggtart.jpg",
+    "width": 1824,
+    "height": 2736
+  },
+  {
+    "key": 30,
+    "alt": "seoul-night",
+    "src": "/assets/gallery/seoul-street.jpg",
+    "width": 1824,
+    "height": 2736
+  },
+  {
+    "key": 31,
+    "alt": "tenerife-conf",
+    "src": "/assets/gallery/tenerife1.jpg",
+    "width": 5472,
+    "height": 3648
+  },
+  {
+    "key": 32,
+    "alt": "tenerife-overlook",
+    "src": "/assets/gallery/tenerife2.jpg",
+    "width": 5472,
+    "height": 3648
+  },
+  {
+    "key": 33,
+    "alt": "tenerife-beach",
+    "src": "/assets/gallery/tenerife3.jpg",
+    "width": 5472,
+    "height": 3648
+  },
+  {
+    "key": 34,
+    "alt": "sandiego-hiking",
+    "src": "/assets/gallery/sd-hiking.jpg",
+    "width": 5472,
+    "height": 3648
+  },
+  {
+    "key": 35,
+    "alt": "london1",
+    "src": "/assets/gallery/london4.jpg",
+    "width": 1824,
+    "height": 2736
+  },
+  {
+    "key": 36,
+    "alt": "london-bridge",
+    "src": "/assets/gallery/london.jpg",
+    "width": 5472,
+    "height": 3648
   }
 ]
