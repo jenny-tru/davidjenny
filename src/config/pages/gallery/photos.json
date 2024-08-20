@@ -28,27 +28,6 @@
     "height": 2736
   },
   {
-    "key": 5,
-    "alt": "taipei-hike",
-    "src": "/assets/gallery/taipei3.jpg",
-    "width": 5472,
-    "height": 3648
-  },
-  {
-    "key": 6,
-    "alt": "taipei-market",
-    "src": "/assets/gallery/taipei2.jpg",
-    "width": 1600,
-    "height": 2000
-  },
-  {
-    "key": 7,
-    "alt": "taipei101",
-    "src": "/assets/gallery/taipei101.jpg",
-    "width": 1096,
-    "height": 1312
-  },
-  {
     "key": 8,
     "alt": "jerusalem1",
     "src": "/assets/gallery/jerusalem1.jpg",
@@ -182,13 +161,6 @@
     "height": 2736
   },
   {
-    "key": 27,
-    "alt": "cluj-hiking",
-    "src": "/assets/gallery/cluj2.jpg",
-    "width": 5472,
-    "height": 3648
-  },
-  {
     "key": 28,
     "alt": "seoul-market",
     "src": "/assets/gallery/seoul-market.jpg",
@@ -250,5 +222,53 @@
     "src": "/assets/gallery/london.jpg",
     "width": 5472,
     "height": 3648
+  },
+  {
+    "key": 27,
+    "alt": "cluj-hiking",
+    "src": "/assets/gallery/cluj2.jpg",
+    "width": 5472,
+    "height": 3648
+  },
+  {
+    "key": 37,
+    "alt": "cluj-kiss",
+    "src": "/assets/gallery/cluj1.jpg",
+    "width": 1824,
+    "height": 2736
+  },
+  {
+    "key": 38,
+    "alt": "cluj-piggyback",
+    "src": "/assets/gallery/cluj4.jpg",
+    "width": 1824,
+    "height": 2736
+  },
+  {
+    "key": 39,
+    "alt": "ao-dai-wedding",
+    "src": "/assets/gallery/yellow-aodai.jpg",
+    "width": 1824,
+    "height": 2736
+  },{
+    "key": 5,
+    "alt": "taipei-hike",
+    "src": "/assets/gallery/taipei3.jpg",
+    "width": 5472,
+    "height": 3648
+  },
+  {
+    "key": 6,
+    "alt": "taipei-market",
+    "src": "/assets/gallery/taipei2.jpg",
+    "width": 1600,
+    "height": 2000
+  },
+  {
+    "key": 7,
+    "alt": "taipei101",
+    "src": "/assets/gallery/taipei101.jpg",
+    "width": 1096,
+    "height": 1312
   }
 ]
