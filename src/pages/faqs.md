@@ -11,7 +11,7 @@ For the casual welcome dinner, you may have just had a travel day so anything sl
 
 _If you have any questions, fit pics or concerns - please reach out to Jenny or David._
 
-## Will the ceremony and reception be outdoors? What’s the weather?
+## Will the ceremony and reception be outdoors/ indoors? What’s the weather?
 
 Both the ceremony and reception are indoors.
 We can’t stress enough that this area sees a wide range of weather from rain to sunshine in minutes. Novmeber swings from 73°F / 63°F but please check the weather as it gets closer.

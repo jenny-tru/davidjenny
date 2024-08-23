@@ -5,7 +5,7 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 ## Casual Welcome Dinner 🍕 
 
-For our out-of-town guests traveling from afar: We're excited to welcome you! After checking in to your accommodation (available from 3pm Friday), please join us at 6pm for a casual dinner and drinks in the backyard of our rented AirBnb. This intimate gathering is a special opportunity for us to catch up with those we don't often see, kicking off our wedding weekend festivities!
+For our out-of-town guests traveling from afar: We're excited to welcome you! After checking in to your accommodation (available from 4pm Friday), please join us at 6:30pm for a casual dinner and drinks in the backyard of our rented AirBnb. This small gathering is a special opportunity for us to catch up with those we don't often see, kicking off our wedding weekend festivities!
 
 ## Tea Ceremony 🫖
 
@@ -26,7 +26,7 @@ During this ceremony, the couple serves tea to their parents and elder family me
 | ---- | ---------------------- | ---------- |
 | 5pm  | Saturday, November 16th | Clearwater, FL |
 
-The American ceremony is to be followed by a 6 course family style dinner and lots of dancing! 
+The American ceremony is to be followed by a 6 course family style dinner served on a lazy susan and lots of dancing! Bring comfortable shoes to dance the night away.
 
 Dinner menu:
 - Asparagus soup with crab meat
@@ -49,6 +49,6 @@ Please list dietary restrictions or alleriges in RSVP. Come hungry, we will have
 
 > Breakfast at 9am ish is optional
 
-We will have a farewell breakfast at the Safety Harbor resort with our guests.
+We would like to say farewell to our guests over breakfast at the Safety Harbor resort. Each person/ family will pay their own bill.
 
 We HIGHLY recommend you check out the “things to do” page (coming soon) and explore the beautiful coastline of Clearwater beach. If you’d rather stay nearby, you’re more than welcome to join us for some water activites. We hope you have an adventurous day!

@@ -13,15 +13,18 @@ We recommend flying into St. Pete-Clearwater Int Airport (PIE) or Tampa Int Airp
 
 ## Safety Harbor Resort & Spa
 
-The historic [Safety Harbor Resort and Spa](https://www.safetyharborspa.com/) is located on 22 acres of pristine waterfront along Tampa Bay. This is the closest hotel to our venue and they have offered discounted room rates for our wedding guests. The rate is reserved for the entire weekend for our wedding celebration from 15th - 17th. It has a gym, spa, tennis courts, and many more amenities listed on their site.
+The historic [Safety Harbor Resort and Spa](https://www.wyndhamhotels.com/trademark/safety-harbor-florida/safety-harbor-resort-and-spa/rooms-rates?&checkInDate=11/13/2024&checkOutDate=11/19/2024&corporate_id=1000079468) is located on 22 acres of pristine waterfront along Tampa Bay. This is the closest hotel to our venue and they have offered discounted room rates for our wedding guests. The rate is reserved for the entire weekend for our wedding celebration from 15th - 17th. 
 
-Please call hotel reservations at (888) 237-8772, Ext. 7100 and request the David Jenny Rooms special rate (prices below) or use the corp code ID #1000079468. You can also click the booking link below. Reservations close on October 30, 2024.
+Check in is 4pm and check out is 11am. Parking is free with a room reservation. Prices shown does not have dining included. The resort has a gym, spa, tennis courts, and many more amenities listed on their site.
+
+Please call hotel reservations at (888) 237-8772, Ext. 7100 and request the David Jenny Rooms special rate (prices below) or use the corp code ID #1000079468. You can also click the booking link below. Reservations close on September 30, 2024.
 
 ![resort-rates](/assets/resort-rates.png)
 
 ### Resort
 
 - **Address:** 105 N Bayshore Dr, Safety Harbor, FL 34695-3124
+- **Book a room**: [Booking Link](https://www.wyndhamhotels.com/trademark/safety-harbor-florida/safety-harbor-resort-and-spa/rooms-rates?&checkInDate=11/13/2024&checkOutDate=11/19/2024&corporate_id=1000079468)
 - **Google Maps:** [Directions Link](https://maps.app.goo.gl/SfBoGPmmbZpUpHJR9)
 
 ### Gallery
