@@ -49,6 +49,6 @@ Please list dietary restrictions or alleriges in RSVP. Come hungry, we will have
 
 > Breakfast at 9am ish is optional
 
-We would like to say farewell to our guests over breakfast at the Safety Harbor resort. Each person/ family will pay their own bill.
+We would like to say farewell to our guests over breakfast near/ at the resort. Each person/ family will pay their own bill.
 
 We HIGHLY recommend you check out the “things to do” page (coming soon) and explore the beautiful coastline of Clearwater beach. If you’d rather stay nearby, you’re more than welcome to join us for some water activites. We hope you have an adventurous day!

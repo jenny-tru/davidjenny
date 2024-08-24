@@ -13,7 +13,7 @@ We recommend flying into St. Pete-Clearwater Int Airport (PIE) or Tampa Int Airp
 
 ## Safety Harbor Resort & Spa
 
-The historic [Safety Harbor Resort and Spa](https://www.wyndhamhotels.com/trademark/safety-harbor-florida/safety-harbor-resort-and-spa/rooms-rates?&checkInDate=11/13/2024&checkOutDate=11/19/2024&corporate_id=1000079468) is located on 22 acres of pristine waterfront along Tampa Bay. This is the closest hotel to our venue and they have offered discounted room rates for our wedding guests. The rate is reserved for the entire weekend for our wedding celebration from 15th - 17th. 
+The historic [Safety Harbor Resort and Spa](https://www.wyndhamhotels.com/trademark/safety-harbor-florida/safety-harbor-resort-and-spa/rooms-rates?&checkInDate=11/13/2024&checkOutDate=11/19/2024&corporate_id=1000079468) is located on 22 acres of pristine waterfront along Tampa Bay. This is the closest hotel to our venue and they have offered discounted room rates for our wedding guests. The rate is reserved for the entire weekend for our wedding celebration from 14th - 18th. Please book ASAP as there are 2 other weddings booked with this resort for the same weekend.
 
 Check in is 4pm and check out is 11am. Parking is free with a room reservation. Prices shown does not have dining included. The resort has a gym, spa, tennis courts, and many more amenities listed on their site.
 

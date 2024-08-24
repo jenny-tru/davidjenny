@@ -7,6 +7,8 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 We’re so glad you asked - but really, whatever you feel your happiest self in! Our dress code is formal attire for the wedding so ladies - warm autumn tones for dresses and gentlemen - suit and tie is reccommended.
 
+Please no red in morning and no white in evening!
+
 For the casual welcome dinner, you may have just had a travel day so anything slightly above casual would be perfect.
 
 _If you have any questions, fit pics or concerns - please reach out to Jenny or David._
@@ -14,7 +16,7 @@ _If you have any questions, fit pics or concerns - please reach out to Jenny or 
 ## Will the ceremony and reception be outdoors/ indoors? What’s the weather?
 
 Both the ceremony and reception are indoors.
-We can’t stress enough that this area sees a wide range of weather from rain to sunshine in minutes. Novmeber swings from 73°F / 63°F but please check the weather as it gets closer.
+We can’t stress enough that this area sees a wide range of weather from rain to sunshine in minutes. Novemeber swings from 73°F / 63°F but please check the weather as it gets closer. Consider dancing to stay warm if the AC is too strong inside. 
 
 Don't forget to pack a bathing suit for the beach + pool + hot hub if it is hot enough to swim.
 
