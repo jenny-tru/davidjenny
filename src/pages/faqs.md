@@ -3,6 +3,8 @@ title: 'FAQs'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
+> This information now lives on the single Details page. Please visit [Details](/details) for the combined Travel + Hotel, Schedule, and FAQs.
+
 ## What should I wear?
 
 We’re so glad you asked - but really, whatever you feel your happiest self in! Our dress code is formal attire for the wedding so ladies - warm autumn tones for dresses and gentlemen - suit and tie is reccommended.
@@ -16,7 +18,7 @@ _If you have any questions, fit pics or concerns - please reach out to Jenny or 
 ## Will the ceremony and reception be outdoors/ indoors? What’s the weather?
 
 Both the ceremony and reception are indoors.
-We can’t stress enough that this area sees a wide range of weather from rain to sunshine in minutes. Novemeber swings from 73°F / 63°F but please check the weather as it gets closer. Consider dancing to stay warm if the AC is too strong inside. 
+Clearwater area sees a wide range of weather from rain to sunshine in minutes. Novemeber swings from 73°F / 63°F but please check the weather as it gets closer. Consider dancing to stay warm if the AC is too strong inside. 
 
 Don't forget to pack a bathing suit for the beach + pool + hot hub if it is hot enough to swim.
 
@@ -26,7 +28,7 @@ The wedding venue has a guest maximum, which means those who can bring a plus on
 
 ## Are children welcome?
 
-Yes, but we ask that you keep them with you at all times. Kids bring so much joy in life and we'd love to have them dancing all night long! Plus this means parents don't have to find a baby sitter.
+Yes, but we ask that you keep them with you at all times. List their names if they need a seat when RSVP'ing. Kids bring so much joy in life and we'd love to have them dancing all night long! Plus this means parents don't have to find a baby sitter.
 
 ## Is there transportation available on the day of the wedding?
 

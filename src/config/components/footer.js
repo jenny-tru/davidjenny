@@ -11,11 +11,9 @@ const footerData = {
       // List of links to be displayed in the section
       links: [
         { text: 'RSVP', href: '/rsvp' },
-        { text: 'Schedule', href: '/schedule' },
-        { text: 'Travel + Hotel', href: '/travel-and-hotel' },
+        { text: 'Details', href: '/details' },
         { text: 'Gifts', href: '/gifts' },
-        { text: 'Photos', href: '/gallery' },
-        { text: 'FAQs', href: '/faqs' },
+        { text: 'Gallery', href: '/gallery' },
       ],
     },
   ],

@@ -115,7 +115,7 @@
     "lon": 138.2529
   },
   {
-    "name": "Berlin, Germany",
+    "name": "Germany",
     "lat": 52.5200,
     "lon": 13.4050
   },
@@ -198,5 +198,30 @@
     "name": "Portland, ME",
     "lat": 43.6591,
     "lon": -70.2568
+  },
+  {
+    "name": "Australia",
+    "lat": -25.2744,
+    "lon": 133.7751
+  },
+  {
+    "name": "Thailand",
+    "lat": 13.7563,
+    "lon": 100.5018
+  },
+  {
+    "name": "Singapore",
+    "lat": 1.3521,
+    "lon": 103.8198
+  },
+  {
+    "name": "Seattle, WA",
+    "lat": 47.6062,
+    "lon": -122.3321
+  },
+  {
+    "name": "Bangladesh",
+    "lat": 23.8103,
+    "lon": 90.4125
   }
 ]

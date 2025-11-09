@@ -55,7 +55,7 @@ const hero = {
     // Image source
     src: import('~/assets/images/hero.jpg'),
     // Image alt text
-    alt: 'David and Jenny in front of interlaken lakes',
+    alt: 'David is holding a macchiato cup and Jenny holding a donut with a photo of an ultrasound on the table',
   },
 };
 

@@ -67,11 +67,7 @@ const meta = {
     )
   }
 
-  <!-- Note Widget ******************* -->
 
-  <Note />
-
-  {gallery && gallery.enabled && <ImageGallery client:only="react" photos={gallery.photos} layout={gallery.layout} />}
 
   <!-- Features Widget *************** -->
 
@@ -168,22 +164,45 @@ const meta = {
     )
   }
 
+  <!-- Registry Details Block (moved up) -->
+  <Block
+    enabled={true}
+    title={'Gifts and Games'}
+    subtitle={null}
+    highlight={'Registry'}
+    content={'View the registry and enter the raffle'}
+    image={{
+      enabled: true,
+      src: import('~/assets/images/invite.png'),
+      alt: 'view travel and hotel location',
+    }}
+    callToAction={{
+      enabled: true,
+      text: 'Click Here',
+      href: getPermalink('/gifts'),
+      target: '_self',
+      rel: 'noopener',
+      icon: 'tabler:gift',
+    }}
+    
+  />
+
   <!-- Block Widget ****************** -->
 
   <Block
     enabled={true}
-    title={'About Us'}
-    highlight={'Photo Gallery'}
-    content={'David and Jenny met in 2018 after being Instagram pen pals for 6 months and sharing their common interests in food and travel. They started dating shortly after and became startup founders to Stately.ai in 2021! <br/> David proposed to Jenny in the Canary Islands after a tech conference with a beautful red (their favorite color) frosted donut (of course!) with the ring on top. His words were "I donut want to live a life without you" and she said "Thank you" 🥺 <br/> We have taken photos all over the globe and have a special gallery here to highlight some of our favorite moments as a couple.'}
+    title={'2024 Wedding Photos'}
+    highlight={'Photos'}
+    content={''}
     image={{
       enabled: true,
-      src: import('~/assets/images/delta1.jpg'),
-      alt: 'David and Jenny in Delta biz',
+      src: import('~/assets/images/weddingpreview.jpg'),
+      alt: 'David and Jenny sign for wedding',
     }}
     callToAction={{
       enabled: true,
       text: 'View Gallery',
-      href: '/gallery',
+      href: 'https://photos.app.goo.gl/jRH5UHpSyS7hwzj36',
       target: '_self',
       rel: 'noopener',
       icon: 'tabler:photo',
@@ -218,40 +237,4 @@ const meta = {
 
   <GlobeView client:only="react" labels={labels} arcs={{ enabled: true, count: 12 }} />
 
-  <!-- Locations 'link' block -->
-  <Block
-    enabled={true}
-    title={'Clearwater, FL'}
-    subtitle={null}
-    highlight={'Wedding Venue location'}
-    content={'Book hotel and view nearby airports'}
-    image={{
-      enabled: true,
-      src: import('~/assets/images/kapok.jpg'),
-      alt: 'view travel and hotel location',
-    }}
-    callToAction={{
-      enabled: true,
-      text: 'Airport and Hotel',
-      href: getPermalink('/travel-and-hotel'),
-      target: '_self',
-      rel: 'noopener',
-      icon: 'tabler:mountain',
-    }}
-    callToAction2={{
-      enabled: false,
-      text: 'Button 2',
-      href: 'https://www.google.com',
-      target: '_blank',
-      rel: 'noopener',
-      icon: 'tabler:star',
-    }}
-  />
-
-  <Block
-    backgroundCss={''}
-    enabled={true}
-    highlight={'About the site'}
-    content={`This website is <em>nifty!</em> Can you believe Jenny built it using Astro? If you're computer nerds like David and Jenny and somehow manage to get married, you too can use this site as it is fully <a class="text-muted hover:text-gray-700 underline text-sage-900 transition duration-150 ease-in-out" href="https://github.com/grantbirki/gl" target="_blank">open source</a> on GitHub.`}
-  />
 </Layout>

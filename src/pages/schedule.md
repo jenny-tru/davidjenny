@@ -3,6 +3,8 @@ title: 'Schedule'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
+> This information now lives on the single Details page. Please visit [Details](/details) for the combined Travel + Hotel, Schedule, and FAQs.
+
 ## Casual Welcome Dinner 🍕 
 
 For our out-of-town guests traveling from afar: We're excited to welcome you! After checking in to your accommodation (available from 4pm Friday), please join us at 6:30pm for a casual dinner and drinks in the backyard of our rented AirBnb. This small gathering is a special opportunity for us to catch up with those we don't often see, kicking off our wedding weekend festivities!
