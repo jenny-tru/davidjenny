@@ -12,12 +12,8 @@ const headerData = {
       href: '/',
     },
     {
-      text: 'Travel + Hotel',
-      href: '/travel-and-hotel',
-    },
-    {
-      text: 'Schedule',
-      href: '/schedule',
+      text: 'Details',
+      href: '/details',
     },
     {
       text: 'Gifts',
@@ -30,10 +26,6 @@ const headerData = {
     {
       text: 'RSVP',
       href: '/rsvp',
-    },
-    {
-      text: 'FAQs',
-      href: '/faqs',
     },
 
     // // The blog link is a special case, it uses the getBlogPermalink function

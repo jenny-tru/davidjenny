@@ -20,7 +20,7 @@ const CONFIG = {
   weddingDate: 'November 16, 2024',
 
   // Website description
-  description: 'David and Jenny are getting married! 💍',
+  description: 'David and Jenny are having a baby! 💍',
 
   // The website's preview image that is displayed when sharing the website on social media
   defaultImage: defaultImage,
