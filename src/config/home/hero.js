@@ -13,7 +13,7 @@ const hero = {
   // Hero subtitle with HTML support
   subtitle: {
     enabled: true, // If the subtitle should be enabled or not
-    text: `<span class="fancy">Please join us to celebrate our new baby due February 2026! Afternoon tea, tacos, snacks, raffles, and games with prizes are planned. RSVP by Dec 1.</span>`,
+    text: `<span class="fancy">Please join us to celebrate our new baby due February 2026! Afternoon tea, tacos, snacks, raffles, and games with prizes are planned. Visit the <a href="/details">Details</a> page for more information.</span>`,
   },
 
   // First CTA block
@@ -21,7 +21,7 @@ const hero = {
     // Enable or disable first CTA
     enabled: true,
     // CTA text
-    text: 'RSVP Here',
+    text: 'RSVP by Dec 5th',
     // CTA link
     href: '/rsvp',
     // Target html <a> tag
